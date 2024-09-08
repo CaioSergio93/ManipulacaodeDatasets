@@ -35,6 +35,7 @@ jupyter notebook
 📈 Exemplos de Uso
 Exploração de dados: Demonstração de como carregar, limpar e transformar dados.
 Visualizações: Criação de gráficos que ilustram a distribuição, correlações e tendências dos dados.
+
 🧑‍💻 Contribuindo
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
